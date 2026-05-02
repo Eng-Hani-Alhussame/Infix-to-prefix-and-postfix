@@ -47,3 +47,32 @@ Plain text
 AB+C*
 How the Method Works
 Read the expression character by character
+Store operators inside the stack
+Compare operator precedence using Priority()
+Remove operators when necessary
+Build the final postfix expression
+This method demonstrates how stacks are used in compilers and calculators.
+
+4-Evaluate_Infix_Prefix()
+This method evaluates expressions after conversion.
+It processes operators and operands using stack operations and returns the final answer.
+Example Prefix Expression Plain text *+234
+Result Plain text 20
+Because:
+Plain text (2 + 3) * 4 = 20 Concepts Covered
+This project helps in understanding:
+Stack operations
+Expression conversion algorithms
+Operator precedence
+Expression evaluation
+Parsing techniques
+Basic compiler concepts
+Future Improvements
+Support multi-digit numbers
+Add floating-point calculations
+Detect invalid expressions
+Create a graphical interface
+Support variables and functions
+
+
+## ✍🏻Eng-Hani Ahmed Abdullah Muhammad 
