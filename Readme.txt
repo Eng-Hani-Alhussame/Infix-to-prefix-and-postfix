@@ -1,4 +1,4 @@
-# 🎈Infix to Prefix and Postfix Converter Using Stack (C++)✨
+#  ✨Infix to Prefix and Postfix Converter Using Stack (C++)✨
 This project is a simple C++ application that uses the Stack data structure to convert mathematical expressions from Infix notation into Postfix and Prefix notation.
 The project also evaluates expressions using stack operations and operator precedence rules.
 
@@ -75,4 +75,4 @@ Create a graphical interface
 Support variables and functions
 
 
-# ✍🏻Eng-Hani Ahmed Abdullah Muhammad
+## ✍🏻Eng-Hani Ahmed Abdullah Muhammad 
