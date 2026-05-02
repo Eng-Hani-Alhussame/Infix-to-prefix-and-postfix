@@ -1,14 +1,14 @@
-## 🎈Infix to Prefix and Postfix Converter Using Stack (C++)✨
+# 🎈Infix to Prefix and Postfix Converter Using Stack (C++)✨
 This project is a simple C++ application that uses the Stack data structure to convert mathematical expressions from Infix notation into Postfix and Prefix notation.
 The project also evaluates expressions using stack operations and operator precedence rules.
 
-##🚩Technologies Used
+## 🚩Technologies Used
 C++
 Stack Data Structure
 STL (Standard Template Library)
 
 
-##⛳Project Features
+## ⛳Project Features
 Convert infix expressions to postfix
 Convert infix expressions to prefix
 Evaluate mathematical expressions
@@ -16,7 +16,7 @@ Handle parentheses correctly
 Apply operator precedence rules
 Practice real applications of stacks
 
-##Ⓜ Methods Description
+## Ⓜ Methods Description
 
 1-Priority()
 This method is responsible for determining the priority of mathematical operators.
@@ -75,4 +75,4 @@ Create a graphical interface
 Support variables and functions
 
 
-#✍🏻Eng-Hani Ahmed Abdullah Muhammad
+# ✍🏻Eng-Hani Ahmed Abdullah Muhammad
